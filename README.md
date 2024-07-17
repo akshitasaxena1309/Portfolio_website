@@ -1,6 +1,5 @@
 # Portfolio Website
 
-# Overview
 This project is a personal portfolio website built using React.js and Tailwind CSS. The website showcases my education, skills, and projects. Project details are dynamically fetched from my GitHub repositories.
 
 # Features
