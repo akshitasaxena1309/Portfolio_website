@@ -92,7 +92,7 @@ function Skills() {
               className="flex flex-col items-center m-6 p-14 bg-white hover:bg-gray-400 duration-200 group"
               key={id}
             >
-              <img className="w-28 md:w-36 h-auto" src={logo} alt="" />
+              <img className="w-20 md:w-36 h-auto" src={logo} alt="" />
               <p className="text-gray-700 text-2xl font-semibold text-center group-hover:text-gray-50">
                 {text}
               </p>
