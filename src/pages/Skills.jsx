@@ -72,7 +72,7 @@ function Skills() {
     {
       id: 12,
       logo: dsa,
-      text: "Data Structures & Algorithms",
+      text: "DSA",
     },
   ];
   return (
