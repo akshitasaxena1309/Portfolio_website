@@ -22,7 +22,7 @@ This project is a personal portfolio website built using React.js and Tailwind C
 # Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/portfolio-website.git
+    https://github.com/akshitasaxena1309/Portfolio_website.git
     ```
 2. Navigate to the project directory:
     ```sh
@@ -38,7 +38,7 @@ This project is a personal portfolio website built using React.js and Tailwind C
     ```
 
 # Usage
-- Access the website at `http://localhost:3000`.
+- Access the website at `http://localhost:5173`.
 - Browse through the sections to view my education, skills, and projects.
 
 # Contributing
