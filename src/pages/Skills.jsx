@@ -82,7 +82,7 @@ function Skills() {
         className="font-serif w-full h-auto mx-auto pt-10 shadow-md"
       >
         <div className="flex justify-center">
-          <h1 className="text-gray-700 font-bold text-4xl text-center px-4 py-2 relative underline-on-hover inline-block">
+          <h1 className="text-gray-700 font-bold text-3xl md:text-4xl text-center px-4 py-2 relative underline-on-hover inline-block">
             My Skills
           </h1>
         </div>

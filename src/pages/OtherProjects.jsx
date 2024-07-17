@@ -17,7 +17,7 @@ function OtherProjects() {
         className="w-full font-serif h-auto mx-auto pt-10 pb-12"
       >
         <div className="flex justify-center">
-          <h1 className="text-gray-700 font-bold text-4xl inline-block px-4 py-2 relative underline-on-hover">
+          <h1 className="text-gray-700 font-bold text-3xl md:text-4xl inline-block px-4 py-2 relative underline-on-hover">
             Other Projects
           </h1>
         </div>

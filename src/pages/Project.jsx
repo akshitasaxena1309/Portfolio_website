@@ -8,7 +8,7 @@ function Project() {
         className="font-serif w-full h-auto mx-auto bg-gray-600 mb-0 shadow-md pb-20"
       >
         <div className="flex justify-center">
-          <h1 className="text-gray-100 font-bold text-4xl text-center pt-8 relative underline-on-hover-for-dark inline-block px-4 py-2">
+          <h1 className="text-gray-100 font-bold text-3xl md:text-4xl text-center pt-8 relative underline-on-hover-for-dark inline-block px-4 py-2">
             My Main Projects
           </h1>
         </div>
@@ -17,10 +17,10 @@ function Project() {
         flex-col md:flex-row pt-20 md:pl-20 pl-2"
         >
           <div className="md:w-1/2 ml-2">
-            <h1 className="text-3xl md:text-4xl pb-9 flex justify-center md:justify-start text-gray-200 font-semibold">
+            <h1 className=" text-2xl md:text-4xl pb-9 flex justify-center md:justify-start text-gray-200 font-semibold">
               Multi-Level Marketing Website (MLM)
             </h1>
-            <div className="text-2xl text-gray-300">
+            <div className="text:xl md:text-2xl text-gray-300">
               <div className="flex flex-row ">
                 <pre>- </pre>
                 <p>
@@ -49,10 +49,10 @@ function Project() {
           <div className="md:w-1/2 flex flex-col justify-between">
             <div>
               {" "}
-              <h1 className="text-2xl pb-3 pt-10 md:pt-0 text-gray-200 font-semibold text-center">
+              <h1 className="text-xl md:text-2xl pb-3 pt-10 md:pt-0 text-gray-200 font-semibold text-center">
                 (Technology Stack)
               </h1>
-              <div className="text-2xl text-gray-300 text-center">
+              <div className="text-xl md:text-2xl text-gray-300 text-center">
                 <p>HTML, CSS, JavaScript, Bootstrap</p>
                 <p>Express.js, MongoDB, REST API</p>
                 <p>JSON Web Token</p>
@@ -77,10 +77,10 @@ function Project() {
         flex-col md:flex-row pt-20 md:pl-20 pl-2"
         >
           <div className="md:w-1/2 ml-2">
-            <h1 className="text-3xl md:text-4xl pb-3 flex justify-center md:justify-start text-gray-200 font-semibold">
+            <h1 className="text-2xl md:text-4xl pb-3 flex justify-center md:justify-start text-gray-200 font-semibold">
               Flick-List
             </h1>
-            <div className="text-2xl text-gray-300">
+            <div className="text-xl md:text-2xl text-gray-300">
               <div className="flex flex-row ">
                 <pre>- </pre>
                 <p>Design and develop a movie management web application.</p>
@@ -104,10 +104,10 @@ function Project() {
           <div className="md:w-1/2 flex flex-col justify-between">
             <div>
               {" "}
-              <h1 className="text-2xl pb-3 pt-10 md:pt-0 text-gray-200 font-semibold text-center">
+              <h1 className="text-xl md:text-2xl pb-3 pt-10 md:pt-0 text-gray-200 font-semibold text-center">
                 (Technology Stack)
               </h1>
-              <div className="text-2xl text-gray-300 text-center">
+              <div className="text-xl md:text-2xl text-gray-300 text-center">
                 <p>HTML, CSS, JavaScript, Bootstrap</p>
                 <p>Express.js, MongoDB, REST API</p>
                 <p>JSON Web Token</p>
@@ -132,10 +132,10 @@ function Project() {
         flex-col md:flex-row pt-20 md:pl-20 pl-2"
         >
           <div className="md:w-1/2 ml-2">
-            <h1 className="text-3xl md:text-4xl pb-3 flex justify-center md:justify-start text-gray-200 font-semibold">
+            <h1 className="text-2xl md:text-4xl pb-3 flex justify-center md:justify-start text-gray-200 font-semibold">
               Password Generator
             </h1>
-            <div className="text-2xl text-gray-300">
+            <div className="text-xl md:text-2xl text-gray-300">
               <div className="flex flex-row ">
                 <pre>- </pre>
                 <p>
@@ -162,10 +162,10 @@ function Project() {
           <div className="md:w-1/2 flex flex-col justify-between">
             <div>
               {" "}
-              <h1 className="text-2xl pb-3 pt-10 md:pt-0 text-gray-200 font-semibold text-center">
+              <h1 className="text-xl md:text-2xl pb-3 pt-10 md:pt-0 text-gray-200 font-semibold text-center">
                 (Technology Stack)
               </h1>
-              <div className="text-2xl text-gray-300 text-center">
+              <div className="text-xl md:text-2xl text-gray-300 text-center">
                 <p>HTML, CSS, JavaScript</p>
               </div>
             </div>
