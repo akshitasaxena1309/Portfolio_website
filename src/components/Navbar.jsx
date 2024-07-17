@@ -112,7 +112,7 @@ function Navbar() {
           </div>
           <div className="text-gray-700 mt-6 flex flex-col">
             <Link
-              className="text-3xl font-medium m-3 p-3 hover:bg-indigo-50 rounded-lg cursor-pointer"
+              className="text-2xl font-medium m-3 p-3 hover:bg-indigo-50 rounded-lg cursor-pointer"
               to="Introduction"
               smooth={true}
               duration={500}
@@ -123,7 +123,7 @@ function Navbar() {
               Home
             </Link>
             <Link
-              className="text-3xl font-medium m-3 p-3 hover:bg-indigo-50 rounded-lg cursor-pointer"
+              className="text-2xl font-medium m-3 p-3 hover:bg-indigo-50 rounded-lg cursor-pointer"
               to="Academic"
               smooth={true}
               duration={500}
@@ -134,7 +134,7 @@ function Navbar() {
               Education
             </Link>
             <Link
-              className="text-3xl font-medium m-3 p-3 hover:bg-indigo-50 rounded-lg cursor-pointer"
+              className="text-2xl font-medium m-3 p-3 hover:bg-indigo-50 rounded-lg cursor-pointer"
               to="Skills"
               smooth={true}
               duration={500}
@@ -145,7 +145,7 @@ function Navbar() {
               Skills
             </Link>
             <Link
-              className="text-3xl font-medium m-3 p-3 hover:bg-indigo-50 rounded-lg cursor-pointer"
+              className="text-2xl font-medium m-3 p-3 hover:bg-indigo-50 rounded-lg cursor-pointer"
               to="Project"
               smooth={true}
               duration={500}
@@ -156,7 +156,7 @@ function Navbar() {
               Projects
             </Link>
             <Link
-              className="text-3xl font-medium m-3 p-3 hover:bg-indigo-50 rounded-lg cursor-pointer"
+              className="text-2xl font-medium m-3 p-3 hover:bg-indigo-50 rounded-lg cursor-pointer"
               to="OtherProject"
               smooth={true}
               duration={500}
@@ -167,7 +167,7 @@ function Navbar() {
               Other Projects
             </Link>
             <Link
-              className="text-3xl font-medium m-3 p-3 hover:bg-indigo-50 rounded-lg cursor-pointer"
+              className="text-2xl font-medium m-3 p-3 hover:bg-indigo-50 rounded-lg cursor-pointer"
               to="contact"
               smooth={true}
               duration={500}
