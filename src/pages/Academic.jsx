@@ -16,10 +16,13 @@ function Academic() {
         <div className="flex md:flex-row flex-col pt-20 ">
           <div className="md:w-1/2 md:hover:scale-105 md:duration-1000">
             <div className="flex flex-col ml-10">
-              <h1 className=" text-2xl md:text-4xl pb-3 text-gray-200 font-semibold">
-                Bachelor of Technology (B.Tech)
-              </h1>
-              <div className="text-xl md:text-2xl text-gray-300">
+              <div className="flex justify-start">
+                {" "}
+                <h1 className=" text-2xl md:text-4xl  relative inline-block underline-on-hover-for-dark pb-2 text-gray-200 font-semibold">
+                  Bachelor of Technology (B.Tech)
+                </h1>
+              </div>
+              <div className="text-xl pt-3 md:text-2xl text-gray-300">
                 <div className="flex flex-row">
                   <pre>- </pre>
                   <p>
@@ -52,11 +55,14 @@ function Academic() {
 
         <div className="flex md:flex-row flex-col pt-20 ">
           <div className="md:w-1/2 md:hover:scale-105 md:duration-1000">
-            <div className="flex flex-col ml-10 pb-3">
-              <h1 className="text-2xl md:text-4xl pb-3 text-gray-200 font-semibold">
-                Senior Secondary Education (12<sup>th</sup> Class)
-              </h1>
-              <div className="text-xl md:text-2xl text-gray-300">
+            <div className="flex flex-col ml-10 pb-3 ">
+              <div className="flex justify-start">
+                {" "}
+                <h1 className="relative inline-block underline-on-hover-for-dark text-2xl md:text-4xl pb-2 text-gray-200 font-semibold">
+                  Senior Secondary Education (12<sup>th</sup> Class)
+                </h1>
+              </div>
+              <div className="text-xl pt-3 md:text-2xl text-gray-300">
                 <div className="flex flex-row">
                   <pre>- </pre>
                   <p>

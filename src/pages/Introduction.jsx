@@ -17,7 +17,7 @@ function Introduction() {
               <span className="text-3xl flex justify-center md:justify-start">
                 Hello, My name is Akshita
               </span>
-              <div className="flex space-x-1 text-4xl md:text-6xl justify-center md:justify-start font-normal">
+              <div className="pt-3 flex space-x-1 text-4xl md:text-6xl justify-center md:justify-start font-normal">
                 <h1>I'm a </h1>
                 {/* <span className="text-gray-500 pl-2 pt-1 font-bold"> Coder</span> */}
                 <ReactTyped

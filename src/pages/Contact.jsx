@@ -16,17 +16,17 @@ function Contact() {
         </div>
         <div className="font-sans pt-12 text-gray-300 flex flex-col text-xl md:text-3xl items-center">
           <div className="flex flex-col md:flex-row">
-            <div className="flex flex-row px-16">
+            <div className="flex flex-row px-16 md:hover:scale-105 md:duration-1000">
               <FaMobileAlt />
               <pre className="font-serif"> 9571462508</pre>
             </div>
-            <div className="flex flex-row">
+            <div className="flex flex-row md:hover:scale-105 md:duration-1000">
               <FaMailBulk />
               <pre className="font-serif"> akshitasaxena38@gmail.com</pre>
             </div>
           </div>
-          <div className="flex flex-col md:flex-row">
-            <div className="flex flex-row px-16">
+          <div className="flex flex-col md:flex-row ">
+            <div className="flex flex-row px-16 md:hover:scale-105 md:duration-1000">
               <FaGithubSquare />
 
               <a
@@ -37,7 +37,7 @@ function Contact() {
                 <pre className="font-serif"> github.com/akshitasaxena1309</pre>
               </a>
             </div>
-            <div className="flex flex-row">
+            <div className="flex flex-row md:hover:scale-105 md:duration-1000">
               <IoLogoLinkedin />
               <a
                 href="https://www.linkedin.com/in/akshita-saxena-1992bb20b"
