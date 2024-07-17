@@ -27,7 +27,7 @@ function OtherProjects() {
         pt-12"
             key={repo.id}
           >
-            <div className="w-1/2 text-2xl text-gray-800 font-semibold">
+            <div className="w-1/2 text-xl md:text-2xl text-gray-800 font-semibold">
               <div className="flex flex-row justify-center">
                 <span className=" px-2 relative underline-on-hover">
                   {repo.name}
