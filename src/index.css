@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.underline-on-hover::after {
+  content: "";
+  display: block;
+  width: 0;
+  height: 3px;
+  background: #4a5568; /* Tailwind's gray-700 */
+  transition: width 0.5s, transform-origin 0.5s; /* Include transform-origin in transition */
+  position: absolute;
+  bottom: -2px; /* Position the underline below the text */
+  left: 50%; /* Start from the horizontal center of the container */
+  transform: translateX(-50%); /* Adjust to center horizontally */
+  transform-origin: center;
+}
+
+.underline-on-hover:hover::after {
+  width: 100%;
+}
+
+.underline-on-hover-for-dark::after {
+  content: "";
+  display: block;
+  width: 0;
+  height: 3px;
+  background: #f7fafc; /* Tailwind's gray-700 */
+  transition: width 0.5s, transform-origin 0.5s; /* Include transform-origin in transition */
+  position: absolute;
+  bottom: -2px; /* Position the underline below the text */
+  left: 50%; /* Start from the horizontal center of the container */
+  transform: translateX(-50%); /* Adjust to center horizontally */
+  transform-origin: center;
+}
+
+.underline-on-hover-for-dark:hover::after {
+  width: 100%;
+}
+
+.profile {
+  filter: drop-shadow(1px 1px 20px #677388);
+  /* transform: scaleX(-1); */
+}
+.logo {
+  filter: drop-shadow(1px 1px 20px #8ba8ce);
+}
