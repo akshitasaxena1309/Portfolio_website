@@ -29,7 +29,7 @@ function Introduction() {
                 />
               </div>
               <br />
-              <p className="text-justify text-xl font-serif">
+              <p className="text-justify text-sm md:text-xl font-serif">
                 a recent B.Tech graduate in Information Technology with
                 expertise in designing both frontend and backend solutions. With
                 a focus on creating intuitive user interfaces and robust system
