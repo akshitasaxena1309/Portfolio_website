@@ -92,6 +92,19 @@ function Introduction() {
                 </ul>
               </div>
             </div>
+            <div>
+              <div className=" flex mt-10">
+                <a
+                  href="https://drive.google.com/file/d/1HNE8RhhK0iDoXpEpxxa8vmIBv20WRGS_/view?usp=sharing"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <button className="border text-xl text-gray-600 border-gray-600 font-extrabold py-2 px-8 rounded hover:bg-gray-600 hover:text-gray-300">
+                    Resume
+                  </button>
+                </a>
+              </div>
+            </div>
           </div>
           <div
             className="md:w-1/2 md:mt-13 order-1 flex justify-center  sm:hover:scale-105 sm:duration-1000 md:hover:scale-100 md:duration-0 
