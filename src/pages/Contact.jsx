@@ -15,7 +15,7 @@ function Contact() {
           </h1>
         </div>
         <div className="font-sans pt-12 text-gray-300 flex flex-col text-base md:text-2xl items-center">
-          <div className="flex flex-col md:flex-row">
+          <div className="flex flex-col">
             <div className="flex flex-row px-16 md:hover:scale-105 md:duration-1000">
               <FaMobileAlt />
               <pre className="font-serif"> 9571462508</pre>
@@ -25,7 +25,7 @@ function Contact() {
               <pre className="font-serif"> akshitasaxena38@gmail.com</pre>
             </div>
           </div>
-          <div className="flex flex-col md:flex-row ">
+          <div className="flex flex-col">
             <div className="flex flex-row px-16 md:hover:scale-105 md:duration-1000">
               <FaGithubSquare />
 
