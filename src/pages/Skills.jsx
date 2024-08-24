@@ -93,7 +93,7 @@ function Skills() {
               key={id}
             >
               <img className="w-16 md:w-36 h-auto" src={logo} alt="" />
-              <p className="text-gray-700 text-lg md:text-2xl font-semibold text-center group-hover:text-gray-50">
+              <p className="text-gray-700 text-xl md:text-2xl font-semibold text-center group-hover:text-gray-50">
                 {text}
               </p>
             </div>
