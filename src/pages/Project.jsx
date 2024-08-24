@@ -142,29 +142,29 @@ function Project() {
             <div className="flex justify-center md:justify-start">
               {" "}
               <h1 className="text-2xl md:text-4xl pb-2 flex relative underline-on-hover-for-dark justify-center md:justify-start text-gray-200 font-semibold">
-                Password Generator
+                Password Manager
               </h1>
             </div>
             <div className="text-xl md:text-2xl pt-3 text-gray-300">
               <div className="flex flex-row ">
                 <pre>- </pre>
                 <p>
-                  Utilize knowledge and experience gained from developing a
-                  password generator project.
+                  Developed a secure password manager using MERN stack, enabling
+                  users to create and manage accounts
                 </p>
               </div>
               <div className="flex flex-row">
                 <pre>- </pre>
                 <p>
-                  Develop secure and user-friendly solutions in a software
-                  development role.
+                  Implemented authentication, allowing users to securely save
+                  and retrieve website names, usernames, and passwords.
                 </p>
               </div>
               <div className="flex flex-row">
                 <pre>- </pre>
                 <p>
-                  Contribute to advancing digital security through innovative
-                  solutions
+                  Styled the application with TailwindCSS, ensuring a
+                  responsive, modern, and user-friendly interface.
                 </p>
               </div>
             </div>
@@ -177,12 +177,15 @@ function Project() {
                 </h1>
               </div>
               <div className="text-xl pt-3 md:text-2xl text-gray-300 text-center">
-                <p>HTML, CSS, JavaScript</p>
+                <p> </p>
+                <p>React.js, Express.js, REST API</p>
+                <p>TailwindCSS, MongoDB</p>
+                <p>JSON Web Token</p>
               </div>
             </div>
             <div className="pt-10 flex justify-center">
               <a
-                href="https://akshitasaxena1309.github.io/Password-Generator/"
+                href="https://password-manager-kappa-lilac.vercel.app/"
                 target="_blank"
                 rel="noopener noreferrer"
               >

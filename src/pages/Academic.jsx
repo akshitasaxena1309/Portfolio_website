@@ -18,7 +18,7 @@ function Academic() {
             <div className="flex flex-col ml-10">
               <div className="flex justify-start">
                 {" "}
-                <h1 className=" text-2xl md:text-4xl  relative inline-block underline-on-hover-for-dark pb-2 text-gray-200 font-semibold">
+                <h1 className=" text-xl md:text-4xl  relative inline-block underline-on-hover-for-dark pb-2 text-gray-200 font-semibold">
                   Bachelor of Technology (B.Tech)
                 </h1>
               </div>
@@ -48,7 +48,7 @@ function Academic() {
             <img
               src={collegeLogo}
               alt="College-Logo"
-              className="md:hover:scale-105 md:duration-1000 rounded-full md:w-[200px] md:h-[200px] w-[200px] h-[200px] logo"
+              className="md:hover:scale-105 md:duration-1000 rounded-full md:w-[200px] md:h-[200px] w-[150px] h-[150px] logo"
             />
           </div>
         </div>
@@ -58,7 +58,7 @@ function Academic() {
             <div className="flex flex-col ml-10 pb-3 ">
               <div className="flex justify-start">
                 {" "}
-                <h1 className="relative inline-block underline-on-hover-for-dark text-2xl md:text-4xl pb-2 text-gray-200 font-semibold">
+                <h1 className="relative inline-block underline-on-hover-for-dark text-xl md:text-4xl pb-2 text-gray-200 font-semibold">
                   Senior Secondary Education (12<sup>th</sup> Class)
                 </h1>
               </div>
@@ -88,7 +88,7 @@ function Academic() {
             <img
               src={schoolLogo}
               alt="her"
-              className="md:hover:scale-105 md:duration-1000 rounded-full md:w-[200px] md:h-[200px] w-[200px] h-[200px] logo"
+              className="md:hover:scale-105 md:duration-1000 rounded-full md:w-[200px] md:h-[200px] w-[150px] h-[150px] logo"
             />
           </div>
         </div>
