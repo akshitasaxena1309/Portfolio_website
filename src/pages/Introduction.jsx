@@ -14,10 +14,10 @@ function Introduction() {
         <div className="flex flex-col md:flex-row pb-10 ml-2 md:ml-0 md:mr-12 mr-0">
           <div className="md:w-1/2 mt-24 md:mt-12 space-y-2 order-2  ">
             <div className="md:hover:scale-105 md:duration-1000">
-              <span className="text-3xl flex justify-center md:justify-start">
+              <span className="text-3xl flex justify-center  md:justify-start">
                 Hello, My name is Akshita
               </span>
-              <div className="pt-3 flex space-x-1 text-4xl md:text-6xl justify-center md:justify-start font-normal">
+              <div className="pt-3 flex space-x-1 text-4xl md:text-6xl justify-center items-center md:justify-start font-normal">
                 <h1>I'm a </h1>
                 {/* <span className="text-gray-500 pl-2 pt-1 font-bold"> Coder</span> */}
                 <ReactTyped
