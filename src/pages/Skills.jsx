@@ -41,28 +41,28 @@ function Skills() {
     },
     {
       id: 6,
-      logo: express,
-      text: "Express.js",
+      logo: reacttjs,
+      text: "React Js",
     },
     {
       id: 7,
-      logo: reacttjs,
-      text: "React.js",
+      logo: express,
+      text: "Express Js",
     },
     {
       id: 8,
-      logo: mongodb,
-      text: "MongoDB",
+      logo: node,
+      text: "Node Js",
     },
     {
       id: 9,
-      logo: node,
-      text: "Node.js",
+      logo: mongodb,
+      text: "Mongo DB",
     },
     {
       id: 10,
       logo: bootstraplogo,
-      text: "Bootstrap",
+      text: "Boot strap",
     },
     {
       id: 11,
@@ -92,8 +92,8 @@ function Skills() {
               className="flex flex-col items-center m-6 p-14 bg-white hover:bg-gray-400 duration-200 group"
               key={id}
             >
-              <img className="w-20 md:w-36 h-auto" src={logo} alt="" />
-              <p className="text-gray-700 text-2xl font-semibold text-center group-hover:text-gray-50">
+              <img className="w-16 md:w-36 h-auto" src={logo} alt="" />
+              <p className="text-gray-700 text-lg md:text-2xl font-semibold text-center group-hover:text-gray-50">
                 {text}
               </p>
             </div>

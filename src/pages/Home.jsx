@@ -9,18 +9,20 @@ import Contact from "./Contact";
 function Home() {
   return (
     <>
-      {/* hero section  */}
-      <Introduction />
-      {/* Academic Details  */}
-      <Academic />
-      {/* Skills  */}
-      <Skills />
-      {/* Main Projects  */}
-      <Project />
-      {/* other projects  */}
-      <OtherProjects />
-      {/* contact us  */}
-      <Contact />
+      <div className="w-full">
+        {/* hero section  */}
+        <Introduction />
+        {/* Academic Details  */}
+        <Academic />
+        {/* Skills  */}
+        <Skills />
+        {/* Main Projects  */}
+        <Project />
+        {/* other projects  */}
+        <OtherProjects />
+        {/* contact us  */}
+        <Contact />
+      </div>
     </>
   );
 }

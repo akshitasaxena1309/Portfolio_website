@@ -14,7 +14,7 @@ function Contact() {
             Contact
           </h1>
         </div>
-        <div className="font-sans pt-12 text-gray-300 flex flex-col text-xl md:text-3xl items-center">
+        <div className="font-sans pt-12 text-gray-300 flex flex-col text-base md:text-2xl items-center">
           <div className="flex flex-col md:flex-row">
             <div className="flex flex-row px-16 md:hover:scale-105 md:duration-1000">
               <FaMobileAlt />

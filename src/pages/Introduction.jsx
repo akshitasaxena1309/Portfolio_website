@@ -11,7 +11,7 @@ function Introduction() {
         name="Introduction"
         className="w-full h-auto mx-auto my-20 shadow-md mb-0 pb-8 md:pb-20 font-serif"
       >
-        <div className="flex flex-col md:flex-row pb-10 ml-2 md:ml-0 md:mr-12">
+        <div className="flex flex-col md:flex-row pb-10 ml-2 md:ml-0 md:mr-12 mr-0">
           <div className="md:w-1/2 mt-24 md:mt-12 space-y-2 order-2  ">
             <div className="md:hover:scale-105 md:duration-1000">
               <span className="text-3xl flex justify-center md:justify-start">
